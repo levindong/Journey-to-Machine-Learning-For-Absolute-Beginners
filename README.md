@@ -1,4 +1,4 @@
-# Journey to Machine Learning
+# FIVE STEPS LEARNING PATH TO MACHINE LEARNING FOR ABSOLUTLY BEGINNERS.
 
 This is the learning path of Machine Learning with online resourses and courses for absolutly beginners who want to dive into the artificial intelligence world. I split the path into 5 steps, follow these steps you will learn Machine Learning from basics to advances in 6 months. This is a tough journey, but once you finish it then look back, you'll think it's deserved and be proud of your efforts.
 
