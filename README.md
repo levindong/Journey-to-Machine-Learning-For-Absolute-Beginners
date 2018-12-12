@@ -10,7 +10,9 @@ Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
 | <ul><li>- [ ] </li></ul>  | Quick Review of Linear Algebra(CMU) | [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
 | <ul><li>- [ ] </li></ul>  | Linear Algebra(MIT 18.06) | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
-| <ul><li>- [ ] </li></ul> | Calculus(OSU) | [Mooculus](https://mooculus.osu.edu/)
+| <ul><li>- [ ] </li></ul> | Calculus One(OSU) | [Mooculus](https://mooculus.osu.edu/)
+| <ul><li>- [ ] </li></ul> | Single Variable Calculus(MIT 18.01SC) | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
+| <ul><li>- [ ] </li></ul> | Multivariable Calculus(MIT 18.02SC) | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 | <ul><li>- [ ] </li></ul> | Probabilistic Systems Analysis and Applied Probability(MIT 6.041SC)| [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 | <ul><li>- [ ] </li></ul> | Graph Theory(Coursera) | [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 | <ul><li>- [ ] </li></ul> | Optimization methods(CMU) | [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
