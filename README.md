@@ -1,6 +1,6 @@
 # Journey-to-Data-Scientist
 
-This is the learning path to Data Scientist with online resourses and courses for absolutly beginners who want to dive into the artificial intelligence world.
+This is the learning path of Machine Learning with online resourses and courses for absolutly beginners who want to dive into the artificial intelligence world.
 
 Wish you good luck and have fun!
 
