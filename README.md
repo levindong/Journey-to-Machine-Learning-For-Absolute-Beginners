@@ -57,8 +57,7 @@ Status | Subject | Online Course Link
 |<ul><li>- [ ] </li></ul> | Object detection and segmentation with RCNN | [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
 |<ul><li>- [ ] </li></ul> | Implementation of Reinforcement Learning Algorithms(including courses) | [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
 |<ul><li>- [ ] </li></ul> | Creating compelling art and music(Google) | [magenta](https://github.com/tensorflow/magenta/tree/master/magenta/models)
-|<ul><li>- [ ] </li></ul> | Real-Time Image Enhancement(Google) | [Deep Bilateral Learning
-for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/)
+|<ul><li>- [ ] </li></ul> | Real-Time Image Enhancement(Google) | [Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/)
 |<ul><li>- [ ] </li></ul> | Self-Driving Car | [self-driving-car](https://github.com/udacity/self-driving-car)
 |<ul><li>- [ ] </li></ul> | IBM Code Patterns | [IBM Code Patterns](https://developer.ibm.com/patterns/)
 
