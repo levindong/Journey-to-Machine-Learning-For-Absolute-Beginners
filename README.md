@@ -8,7 +8,7 @@ Wish you good luck and have fun!  :snowboarder::snowboarder::snowboarder:
 
 Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
-| <ul><li>- [ ] </li></ul>  | Quick Review of Linear Algebra(CMU) | [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
+| <ul><li>- [ ] </li></ul>  | Quick Review of Linear Algebra(CMU) | [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html){:target="_blank"}
 | <ul><li>- [ ] </li></ul>  | Linear Algebra(MIT 18.06) | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 | <ul><li>- [ ] </li></ul> | Calculus One(OSU) | [Mooculus](https://mooculus.osu.edu/)
 | <ul><li>- [ ] </li></ul> | Single Variable Calculus(MIT 18.01SC) | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
