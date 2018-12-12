@@ -4,7 +4,7 @@ This is the learning path of Machine Learning with online resourses and courses 
 
 Wish you good luck and have fun!
 
-## STEP 01 Mathmatics for ML
+## STEP 01: Mathmatics for ML
 
 Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
@@ -17,7 +17,7 @@ Finished | Subject | Online Course Link
 | <ul><li>- [ ] </li></ul> | Graph Theory(Coursera) | [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
 | <ul><li>- [ ] </li></ul> | Optimization methods(CMU) | [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 
-## STEP 02 Programming Skills for ML
+## STEP 02: Programming Skills for ML
 
 Finished |Subject | Online Course Link
 ------------ | ------------ | -------------
@@ -28,7 +28,7 @@ Finished |Subject | Online Course Link
 |<ul><li>- [ ] </li></ul> | Matplotlib(sentdex) | [Matplotlib Tutorial Series - Graphing in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 |<ul><li>- [ ] </li></ul>|  Numpy | [Intro to Numerical Computing with NumPy (Beginner) ](https://www.youtube.com/watch?v=V0D2mhVt7NE)
 
-## STEP 03 Basic Machine Learning
+## STEP 03: Basic Machine Learning
 
 Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
@@ -36,7 +36,7 @@ Finished | Subject | Online Course Link
 |<ul><li>- [ ] </li></ul> | Machine Learning(Coursera) | [Machine Learning](https://www.coursera.org/learn/machine-learning)
 |<ul><li>- [ ] </li></ul> | Machine Learning with Python(sentdex) | [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
-## STEP 04 Advanced Machine Learning
+## STEP 04: Advanced Machine Learning
 
 Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
@@ -46,7 +46,7 @@ Finished | Subject | Online Course Link
 |<ul><li>- [ ] </li></ul> | NLP with Deep Learning(Stanford CS224n) |<ul><li>[Lecture Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)</li> <li>[Lecure Homepage](http://web.stanford.edu/class/cs224n/)</li></ul>
 
 
-## STEP 05 Practice with Machine Learning
+## STEP 05: Practice with Machine Learning
 
 Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
