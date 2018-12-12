@@ -44,7 +44,9 @@ Finished | Subject | Online Course Link
 |<ul><li>- [ ] </li></ul> | Deep Learning(Coursera) | [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 |<ul><li>- [ ] </li></ul> | CV with CNN(Stanford CS231n) | <ul><li>[Lecture Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)</li> <li>[Lecure Homepage](http://cs231n.stanford.edu/)</li></ul>
 |<ul><li>- [ ] </li></ul> | NLP with Deep Learning(Stanford CS224n) |<ul><li>[Lecture Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)</li> <li>[Lecure Homepage](http://web.stanford.edu/class/cs224n/)</li></ul>
-
+|<ul><li>- [ ] </li></ul> | Tensorflow/TF Tutorial(Sentdex) | [Tensorflow/TF Tutorial](https://www.youtube.com/playlist?list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP)
+|<ul><li>- [ ] </li></ul> | Deep Learning basics with Python, TensorFlow and Keras(Sentdex) | [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+|<ul><li>- [ ] </li></ul> | Tensorflow for Deep Learning Research(Stanford CS20) | [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
 ## STEP 05: Practice with Machine Learning
 
