@@ -2,6 +2,8 @@
 
 This is the learning path to Data Scientist with online resourses and courses for absolutly beginners who want to dive into the artificial intelligence world.
 
+Wish you good luck and have fun!
+
 ## 01 Mathmatics for ML
 
 Finished | Subject | Online Course Link
@@ -46,17 +48,18 @@ Status | Subject | Online Course Link
 
 Status | Subject | Online Course Link
 ------------ | ------------ | -------------
-|<ul><li>- [ ] </li></ul> | Tensorflow 101 | 
-|<ul><li>- [ ] </li></ul> | Tensorflow cookbook |
-|<ul><li>- [ ] </li></ul> | Practical course on Tensorflow(Kadenze) |
-|<ul><li>- [ ] </li></ul> | An Implementation of Fully Convolutional Networks in Tensorflow | 
-|<ul><li>- [ ] </li></ul> | TensorFlow CNN for fast style transfer | 
-|<ul><li>- [ ] </li></ul> | Object detection with CNN | 
-|<ul><li>- [ ] </li></ul> | Object detection and segmentation with RCNN | 
-|<ul><li>- [ ] </li></ul> | Implementation of Reinforcement Learning Algorithms(including courses) | 
-|<ul><li>- [ ] </li></ul> | Creating compelling art and music(Google) | 
-|<ul><li>- [ ] </li></ul> | Real-Time Image Enhancement(Google) | 
-|<ul><li>- [ ] </li></ul> | Self-Driving Car | 
-|<ul><li>- [ ] </li></ul> | IBM Code Patterns | 
+|<ul><li>- [ ] </li></ul> | Practical course on Tensorflow(Kadenze) | [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+|<ul><li>- [ ] </li></ul> | Tensorflow 101 | [Tensorflow 101](https://github.com/sjchoi86/Tensorflow-101)
+|<ul><li>- [ ] </li></ul> | Tensorflow cookbook | [Tensorflow cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+|<ul><li>- [ ] </li></ul> | An Implementation of Fully Convolutional Networks in Tensorflow-Image segmentation | [tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
+|<ul><li>- [ ] </li></ul> | TensorFlow CNN for fast style transfer | [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+|<ul><li>- [ ] </li></ul> | Object detection with CNN | [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
+|<ul><li>- [ ] </li></ul> | Object detection and segmentation with RCNN | [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
+|<ul><li>- [ ] </li></ul> | Implementation of Reinforcement Learning Algorithms(including courses) | [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+|<ul><li>- [ ] </li></ul> | Creating compelling art and music(Google) | [magenta](https://github.com/tensorflow/magenta/tree/master/magenta/models)
+|<ul><li>- [ ] </li></ul> | Real-Time Image Enhancement(Google) | [Deep Bilateral Learning
+for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/)
+|<ul><li>- [ ] </li></ul> | Self-Driving Car | [self-driving-car](https://github.com/udacity/self-driving-car)
+|<ul><li>- [ ] </li></ul> | IBM Code Patterns | [IBM Code Patterns](https://developer.ibm.com/patterns/)
 
 
