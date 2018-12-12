@@ -19,7 +19,7 @@ Finished | Subject | Online Course Link
 
 ## 02 Programming Skills for ML
 
-Status |Subject | Online Course Link
+Finished |Subject | Online Course Link
 ------------ | ------------ | -------------
 |<ul><li>- [x] </li></ul>| Python Tutorials(MIT 6.0001) |  [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 |<ul><li>- [ ] </li></ul>| Pandas | [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
@@ -30,7 +30,7 @@ Status |Subject | Online Course Link
 
 ## 03 Basic Machine Learning
 
-Status | Subject | Online Course Link
+Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
 |<ul><li>- [ ] </li></ul> | Machine Learning(Stanford CS229) | [Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 |<ul><li>- [ ] </li></ul> | Machine Learning(Coursera) | [Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -38,7 +38,7 @@ Status | Subject | Online Course Link
 
 ## 04 Advanced Machine Learning
 
-Status | Subject | Online Course Link
+Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
 |<ul><li>- [ ] </li></ul> | Statistical Machine Learning(CMU) | <ul><li>[Lecture Videos](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)</li> <li>[Lecure Homepage](http://www.stat.cmu.edu/~larry/=sml/)</li></ul>
 |<ul><li>- [ ] </li></ul> | Deep Learning(Coursera) | [Deep Learning](https://www.coursera.org/specializations/deep-learning)
@@ -48,7 +48,7 @@ Status | Subject | Online Course Link
 
 ## 05 Practice with Machine Learning
 
-Status | Subject | Online Course Link
+Finished | Subject | Online Course Link
 ------------ | ------------ | -------------
 |<ul><li>- [ ] </li></ul> | Practical course on Tensorflow(Kadenze) | [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 |<ul><li>- [ ] </li></ul> | Tensorflow 101 | [Tensorflow 101](https://github.com/sjchoi86/Tensorflow-101)
