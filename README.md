@@ -78,5 +78,6 @@ Finished | Subject | Online Course Link
 - [AIIDE StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 - [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 
-## CheatSheets
+## Supplement
 - [The Most Complete List of Best AI Cheat Sheets](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
