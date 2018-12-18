@@ -9,7 +9,7 @@ Feel free to make any contributions, and wish you good luck and have fun!  :snow
 Finished | Subject | Online Course Link | Workload
 ------------ | ------------ | ------------- | -------------
 | <ul><li>- [x] </li></ul>  | Quick Review of Linear Algebra(CMU) | [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html) | 1 Week
-| <ul><li>- [ ] </li></ul>  | Linear Algebra(MIT 18.06) | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/) | 3 Units <br> 3 Weeks Approx.
+| <ul><li>- [x] </li></ul>  | Linear Algebra(MIT 18.06) | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/) | 3 Units <br> 3 Weeks Approx.
 | <ul><li>- [ ] </li></ul> | Calculus One(OSU) | [Mooculus](https://mooculus.osu.edu/) | 15 Weeks
 | <ul><li>- [ ] </li></ul> | Single Variable Calculus(MIT 18.01SC) | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) | 39 Lectures <br/> 18 Weeks Approx.
 | <ul><li>- [ ] </li></ul> | Multivariable Calculus(MIT 18.02SC) | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 35 Lectures <br/> 18 Weeks Approx.
